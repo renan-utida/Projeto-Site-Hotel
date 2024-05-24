@@ -75,6 +75,10 @@
     color: white;
 }
 
+.navegacao #selecionado {
+    background-color: #ff7b009c;
+}
+
 .item3{
     grid-column: 1/4;
     grid-row: 4/7;
