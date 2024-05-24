@@ -79,6 +79,22 @@
     background-color: #ff7b009c;
 }
 
+.titulo{
+    grid-column: 1/6;
+    grid-row: 4/6;
+    margin: 12px;
+}
+
+.titulo h2{
+    margin-left: 38px;
+    color: #ff8024;
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 42px;
+}
+
 .item3{
     grid-column: 1/4;
     grid-row: 4/7;

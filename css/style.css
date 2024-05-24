@@ -89,7 +89,6 @@
 
 .sobre h2{
     margin-left: 25px;
-    border-radius: 50px;
     color: #ff8024;
     font-family: "Jost", sans-serif;
     font-optical-sizing: auto;
@@ -200,13 +199,11 @@
 
     grid-column: 1/2;
     grid-row: 2/6;
-    text-align: left;
 }
 
 .prservicos ul .partedois{
     grid-column: 2/3;
     grid-row: 2/6;
-    text-align: left;
 }
 
 .rodape{
@@ -218,6 +215,6 @@
     grid-row: 19/20;
     color: white;
     background-color: black;
-    font-size: 14px;
+    font-size: 10px;
     font-weight: bold;
 }
